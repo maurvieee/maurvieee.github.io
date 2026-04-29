@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "A Love Letter to Lemurs\n\n\n\n\n\n\n\n\nApr 29, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nMy first blog post\n\n\n\n\n\n\n\n\nApr 28, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "My Hobbies",
+    "section": "",
+    "text": "I have some hobbies including art and going to the zoo to see the lemurs!\nYou can also add lists:\n\nitem 1\nitem 2\n\nand images:"
+  },
+  {
+    "objectID": "posts/lemurs.html",
+    "href": "posts/lemurs.html",
+    "title": "A Love Letter to Lemurs",
+    "section": "",
+    "text": "I really love lemurs, here is a picture:"
+  },
+  {
+    "objectID": "posts/my_first_post.html",
+    "href": "posts/my_first_post.html",
+    "title": "My first blog post",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "posts/my_first_post.html#quarto",
+    "href": "posts/my_first_post.html#quarto",
+    "title": "My first blog post",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "posts/my_first_post.html#running-code",
+    "href": "posts/my_first_post.html#running-code",
+    "title": "My first blog post",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Maurvie",

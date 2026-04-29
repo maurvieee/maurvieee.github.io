@@ -1,0 +1,9 @@
+---
+title: "A Love Letter to Lemurs"
+date: "April 29, 2026"
+format: html
+---
+
+I really love lemurs, here is a picture:
+
+![](../lemur.jpg)

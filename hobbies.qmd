@@ -1,0 +1,18 @@
+---
+title: "My Hobbies"
+format: html
+editor: source
+---
+
+I have some hobbies including art and going to the zoo to see the lemurs! 
+
+You can also add lists:
+
+- item 1
+- item 2
+
+and images:
+
+![](lemur.jpg)
+
+
